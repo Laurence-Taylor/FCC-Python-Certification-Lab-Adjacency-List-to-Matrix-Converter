@@ -28,8 +28,10 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 
 ## User Stories:
 
-    You should define a function named adjacency_list_to_matrix to convert an adjacency list to an adjacency matrix.
-    The function should take a dictionary representing the adjacency list of an unweighted (either undirected or directed) graph as its argument.
+    You should define a function named adjacency_list_to_matrix to convert an
+    adjacency list to an adjacency matrix.
+    The function should take a dictionary representing the adjacency list of an
+    unweighted (either undirected or directed) graph as its argument.
     The function should:
         Convert the adjacency list to an adjacency matrix.
         Print each row in the adjacency matrix.
